@@ -6,7 +6,7 @@
                 "bbox": "1562,380,577,1304",
                 "center": "1850,1032",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -20,7 +20,7 @@
                 "bbox": "1624,411,553,1338",
                 "center": "1900,1080",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -34,7 +34,7 @@
                 "bbox": "1757,283,560,1360",
                 "center": "2037,963",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -48,7 +48,7 @@
                 "bbox": "1495,274,877,1246",
                 "center": "1934,897",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -62,7 +62,7 @@
                 "bbox": "1471,529,1115,893",
                 "center": "2028,976",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -76,7 +76,7 @@
                 "bbox": "1425,721,1156,588",
                 "center": "2003,1015",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -90,7 +90,7 @@
                 "bbox": "1314,449,1486,1081",
                 "center": "2057,990",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -104,7 +104,7 @@
                 "bbox": "959,238,2007,784",
                 "center": "1962,630",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -118,7 +118,7 @@
                 "bbox": "1752,584,526,1203",
                 "center": "2015,1186",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -132,7 +132,7 @@
                 "bbox": "1692,567,519,1232",
                 "center": "1952,1183",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -146,7 +146,7 @@
                 "bbox": "1562,389,767,1086",
                 "center": "1946,932",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -160,7 +160,7 @@
                 "bbox": "1882,218,454,1189",
                 "center": "2109,812",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -174,7 +174,7 @@
                 "bbox": "1562,163,1065,1032",
                 "center": "2094,679",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -188,7 +188,7 @@
                 "bbox": "1687,192,1322,585",
                 "center": "2348,484",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -202,7 +202,7 @@
                 "bbox": "1564,791,1022,431",
                 "center": "2075,1006",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -216,7 +216,7 @@
                 "bbox": "1394,709,1012,684",
                 "center": "1900,1051",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -230,7 +230,7 @@
                 "bbox": "1769,389,1154,891",
                 "center": "2346,834",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -244,7 +244,7 @@
                 "bbox": "1343,291,623,1095",
                 "center": "1654,838",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -258,7 +258,7 @@
                 "bbox": "1819,0,481,967",
                 "center": "2060,484",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -272,7 +272,7 @@
                 "bbox": "2031,500,377,1023",
                 "center": "2220,1012",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -286,7 +286,7 @@
                 "bbox": "1725,423,395,1102",
                 "center": "1922,974",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -300,7 +300,7 @@
                 "bbox": "1783,442,486,1088",
                 "center": "2026,986",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -314,7 +314,7 @@
                 "bbox": "1685,187,603,1211",
                 "center": "1986,792",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -328,7 +328,7 @@
                 "bbox": "1350,690,1037,544",
                 "center": "1868,962",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -342,7 +342,7 @@
                 "bbox": "1581,372,1053,698",
                 "center": "2108,721",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -356,7 +356,7 @@
                 "bbox": "1343,346,1505,527",
                 "center": "2096,610",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -370,7 +370,7 @@
                 "bbox": "1149,524,1201,768",
                 "center": "1750,908",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -384,7 +384,7 @@
                 "bbox": "1057,324,1140,948",
                 "center": "1627,798",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -643,7 +643,7 @@
                 "bbox": "3836,1044,163,755",
                 "center": "3918,1422",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
@@ -684,7 +684,7 @@
                 "bbox": "3762,880,237,917",
                 "center": "3880,1338",
                 "color": "255,0,255",
-                "label": "bottle",
+                "label": "plastic_bottle",
                 "label_index": 0,
                 "landmark": "",
                 "landmark_len": 0
