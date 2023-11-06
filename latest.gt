@@ -4611,1056 +4611,3000 @@
     {
         "filename": "2022-11-30-18-43-57_mov-151_jpg.rf.3b336d4ea2c1b78c4884a70a0e03a377.jpg",
         "obj_array": [
+            {
+                "bbox": "747,175,418,739",
+                "center": "956,544",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-169_jpg.rf.667554713d133acdb70f43167e9007e2.jpg",
         "obj_array": [
+            {
+                "bbox": "765,175,428,737",
+                "center": "979,544",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-175_jpg.rf.97aadb42473a5742452455d2f602dc8d.jpg",
         "obj_array": [
+            {
+                "bbox": "759,167,398,734",
+                "center": "958,534",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-185_jpg.rf.a31cd9034ea78f8cd8caa4568306e022.jpg",
         "obj_array": [
+            {
+                "bbox": "758,171,397,718",
+                "center": "956,530",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-207_jpg.rf.771c4364fed16fb73417b72cef3f5d15.jpg",
         "obj_array": [
+            {
+                "bbox": "725,128,426,788",
+                "center": "938,522",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-233_jpg.rf.b6008371e790d1c9622352a5b74dfef4.jpg",
         "obj_array": [
+            {
+                "bbox": "761,211,383,669",
+                "center": "952,546",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-235_jpg.rf.9434c63d4333da2f1298c363218f1237.jpg",
         "obj_array": [
+            {
+                "bbox": "754,302,394,582",
+                "center": "951,593",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-240_jpg.rf.3306b600766095ed414565e24da93d43.jpg",
         "obj_array": [
+            {
+                "bbox": "757,264,403,647",
+                "center": "958,588",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-251_jpg.rf.31032d380ee182fd6fe2ef53e7dc9341.jpg",
         "obj_array": [
+            {
+                "bbox": "748,326,419,572",
+                "center": "958,612",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-271_jpg.rf.81b5e4890e6b1f150b9c6a48d3e97313.jpg",
         "obj_array": [
+            {
+                "bbox": "719,252,449,680",
+                "center": "944,592",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-279_jpg.rf.36c78f2b0a9f7daf8e3344b82c0c6c05.jpg",
         "obj_array": [
+            {
+                "bbox": "726,284,446,634",
+                "center": "949,601",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-293_jpg.rf.c13edf1cc76ca5dfe5bff35ad38ca0d2.jpg",
         "obj_array": [
+            {
+                "bbox": "766,242,375,662",
+                "center": "954,573",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-295_jpg.rf.c9ce58d23a90c0686b11251cd774c062.jpg",
         "obj_array": [
+            {
+                "bbox": "783,285,370,613",
+                "center": "968,592",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-317_jpg.rf.c9e052b3ce1a3281bd88e2eab4cc7008.jpg",
         "obj_array": [
+            {
+                "bbox": "771,174,376,713",
+                "center": "959,530",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-319_jpg.rf.0bb3542360fae20edd5028c3d597d98c.jpg",
         "obj_array": [
+            {
+                "bbox": "758,176,379,721",
+                "center": "948,536",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-341_jpg.rf.835683483501165b13524bb92fbf09fd.jpg",
         "obj_array": [
+            {
+                "bbox": "785,224,352,574",
+                "center": "961,511",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-359_jpg.rf.57c4df358c31f6168dd32b40376b1f6d.jpg",
         "obj_array": [
+            {
+                "bbox": "780,256,357,542",
+                "center": "958,527",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-360_jpg.rf.04f9c0a8b88e6a4704f61fa477b64348.jpg",
         "obj_array": [
+            {
+                "bbox": "761,236,396,598",
+                "center": "959,535",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-371_jpg.rf.7b86ab4e1e90241255896e851f4efb51.jpg",
         "obj_array": [
+            {
+                "bbox": "773,214,382,620",
+                "center": "964,524",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-385_jpg.rf.2d2367450c316c36dfbe9c5da32c2922.jpg",
         "obj_array": [
+            {
+                "bbox": "773,206,367,638",
+                "center": "956,525",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-397_jpg.rf.dcd3b1338c9ad15b471fede302297134.jpg",
         "obj_array": [
+            {
+                "bbox": "759,301,382,530",
+                "center": "950,566",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-39_jpg.rf.dc3f4f8a2fcdba7de2885bbc67fd870b.jpg",
         "obj_array": [
+            {
+                "bbox": "758,183,396,721",
+                "center": "956,544",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-3_jpg.rf.bbfbda97128d0882a4ac6261dc6bc19f.jpg",
         "obj_array": [
+            {
+                "bbox": "810,195,343,738",
+                "center": "982,564",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-405_jpg.rf.3ac4b74d995aa1afcd59c89e96742200.jpg",
         "obj_array": [
+            {
+                "bbox": "766,222,409,563",
+                "center": "970,504",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-433_jpg.rf.c14c9e356d6979fc8978e96bb20b289b.jpg",
         "obj_array": [
+            {
+                "bbox": "783,250,377,558",
+                "center": "972,529",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-437_jpg.rf.20193ba7c699a09e4ff3e73684e0047b.jpg",
         "obj_array": [
+            {
+                "bbox": "762,245,385,552",
+                "center": "954,521",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-439_jpg.rf.7218c65de0d15b7a00bf71cea4ae74c1.jpg",
         "obj_array": [
+            {
+                "bbox": "752,264,405,555",
+                "center": "954,542",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-469_jpg.rf.1f3bdd9e7c59bf2f13d27e7cbbaf05f0.jpg",
         "obj_array": [
+            {
+                "bbox": "768,217,365,595",
+                "center": "950,514",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-480_jpg.rf.b9c0814713fa429754f60f822183a843.jpg",
         "obj_array": [
+            {
+                "bbox": "778,224,369,609",
+                "center": "962,528",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-485_jpg.rf.cf5edee7193189165191c16275038fd2.jpg",
         "obj_array": [
+            {
+                "bbox": "759,213,399,598",
+                "center": "958,512",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-487_jpg.rf.8c3ac14407cd1f588cd49b1dfc324d45.jpg",
         "obj_array": [
+            {
+                "bbox": "765,197,397,636",
+                "center": "964,515",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-51_jpg.rf.dad5cf42d5f4e585daee524c629670e6.jpg",
         "obj_array": [
+            {
+                "bbox": "772,185,378,713",
+                "center": "961,542",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-527_jpg.rf.b3c216fc668ac6d111fddca94de23791.jpg",
         "obj_array": [
+            {
+                "bbox": "773,207,412,645",
+                "center": "979,530",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-53_jpg.rf.147fadac629c0252a04a274adfc15721.jpg",
         "obj_array": [
+            {
+                "bbox": "776,144,396,718",
+                "center": "974,503",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-547_jpg.rf.8ccff21898473d9808bc185f0f3cbb62.jpg",
         "obj_array": [
+            {
+                "bbox": "794,199,345,644",
+                "center": "966,521",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-551_jpg.rf.df6bdc7973eccaf90fa355b82dcbdc5c.jpg",
         "obj_array": [
+            {
+                "bbox": "787,185,364,658",
+                "center": "969,514",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-553_jpg.rf.35339452f8b3c1a6cfb9ee772f471a5a.jpg",
         "obj_array": [
+            {
+                "bbox": "775,200,386,636",
+                "center": "968,518",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-561_jpg.rf.e68bc190cbf99b529b848791324b9ef2.jpg",
         "obj_array": [
+            {
+                "bbox": "803,199,357,644",
+                "center": "982,521",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-565_jpg.rf.7f1125c2efa744fa080c8c57d197bf34.jpg",
         "obj_array": [
+            {
+                "bbox": "766,232,384,598",
+                "center": "958,531",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-591_jpg.rf.eab37cc506f0107d05eaa37d01cf8ec8.jpg",
         "obj_array": [
+            {
+                "bbox": "794,235,363,609",
+                "center": "976,540",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-63_jpg.rf.7e11a1c6424979548ac6572e0a37aba4.jpg",
         "obj_array": [
+            {
+                "bbox": "747,217,386,635",
+                "center": "940,534",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-43-57_mov-73_jpg.rf.87924697e7daa7da9d7d5271ebcf6190.jpg",
         "obj_array": [
+            {
+                "bbox": "761,126,380,750",
+                "center": "951,501",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-129_jpg.rf.43d613a92edf7525e88fdb3dc2bab5b3.jpg",
         "obj_array": [
+            {
+                "bbox": "584,316,648,350",
+                "center": "908,491",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-161_jpg.rf.b23e4af8ba0b20cd892a78d5c7cb07f2.jpg",
         "obj_array": [
+            {
+                "bbox": "588,386,758,282",
+                "center": "967,527",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-201_jpg.rf.d8d4624529425a2bb26e6a461f763b51.jpg",
         "obj_array": [
+            {
+                "bbox": "517,327,814,362",
+                "center": "924,508",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-23_jpg.rf.ba65be94a2878c655e1b7e959003c088.jpg",
         "obj_array": [
+            {
+                "bbox": "670,348,667,373",
+                "center": "1004,534",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-253_jpg.rf.ef96a39974b6383f01867e4e054bd91b.jpg",
         "obj_array": [
+            {
+                "bbox": "651,91,555,883",
+                "center": "928,532",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-263_jpg.rf.12c84fb2d133e87120757af2a5d223e9.jpg",
         "obj_array": [
+            {
+                "bbox": "520,288,889,449",
+                "center": "964,512",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-279_jpg.rf.8b20855cb9e9f318c0f37e100c18f222.jpg",
         "obj_array": [
+            {
+                "bbox": "560,314,851,459",
+                "center": "986,544",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-281_jpg.rf.1e5467b241dc9099bb5eed0b51a9e494.jpg",
         "obj_array": [
+            {
+                "bbox": "581,342,899,416",
+                "center": "1030,550",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-289_jpg.rf.ce21e187ba0f3bc9c73259203abad86b.jpg",
         "obj_array": [
+            {
+                "bbox": "566,296,881,489",
+                "center": "1006,540",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-299_jpg.rf.8ff27b4c67334258b92af1143ed141e4.jpg",
         "obj_array": [
+            {
+                "bbox": "553,340,874,412",
+                "center": "990,546",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-29_jpg.rf.91c61eac17ff33d9f0b11f3bd20c1b1c.jpg",
         "obj_array": [
+            {
+                "bbox": "561,294,670,436",
+                "center": "896,512",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-333_jpg.rf.38d393c3f0e31afdff7ad369fdd14670.jpg",
         "obj_array": [
+            {
+                "bbox": "536,365,895,397",
+                "center": "984,564",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-335_jpg.rf.4d08bee574408cf96db9d2ccc9a7bfc0.jpg",
         "obj_array": [
+            {
+                "bbox": "547,353,866,400",
+                "center": "980,553",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-337_jpg.rf.1f501b27f9d8dbe500b3190d39b015ba.jpg",
         "obj_array": [
+            {
+                "bbox": "541,349,881,414",
+                "center": "982,556",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-33_jpg.rf.400e605856eb2d978cec8c8713532e22.jpg",
         "obj_array": [
+            {
+                "bbox": "556,301,700,413",
+                "center": "906,508",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-351_jpg.rf.1b3f7c3777a5f1ff761aaf05f530b971.jpg",
         "obj_array": [
+            {
+                "bbox": "528,369,919,398",
+                "center": "988,568",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-365_jpg.rf.dce5922f95637195412737277eddd5f5.jpg",
         "obj_array": [
+            {
+                "bbox": "534,362,938,446",
+                "center": "1003,585",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-371_jpg.rf.b1c9f804c43bb673c2c32f9656bbe0ff.jpg",
         "obj_array": [
+            {
+                "bbox": "517,374,941,418",
+                "center": "988,583",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-381_jpg.rf.156b579f587fd690dec0f21f3be8e95f.jpg",
         "obj_array": [
+            {
+                "bbox": "503,348,979,439",
+                "center": "992,568",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-419_jpg.rf.a78b7ee7571091f53b86002540d579fa.jpg",
         "obj_array": [
+            {
+                "bbox": "529,376,946,416",
+                "center": "1002,584",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-423_jpg.rf.372fc4d1f265797df9711947ec9f7b68.jpg",
         "obj_array": [
+            {
+                "bbox": "490,333,983,457",
+                "center": "982,562",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-43_jpg.rf.a6cddf502ef0597aaa4cb54195d6e28e.jpg",
         "obj_array": [
+            {
+                "bbox": "492,342,994,448",
+                "center": "989,566",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-447_jpg.rf.397e11ad5e15fc3e5d6d3635710c6c1f.jpg",
         "obj_array": [
+            {
+                "bbox": "556,333,869,413",
+                "center": "990,540",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "2022-11-30-18-44-50_mov-85_jpg.rf.3d320382554946063a685407d9d732b7.jpg",
         "obj_array": [
+            {
+                "bbox": "718,334,581,418",
+                "center": "1008,543",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152414.jpg",
         "obj_array": [
+            {
+                "bbox": "1473,372,654,1288",
+                "center": "1800,1016",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152416.jpg",
         "obj_array": [
+            {
+                "bbox": "1524,416,682,1352",
+                "center": "1865,1092",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152418.jpg",
         "obj_array": [
+            {
+                "bbox": "1641,271,681,1370",
+                "center": "1982,956",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152420.jpg",
         "obj_array": [
+            {
+                "bbox": "1449,250,1017,1261",
+                "center": "1958,880",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152421.jpg",
         "obj_array": [
+            {
+                "bbox": "1334,543,1384,881",
+                "center": "2026,984",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152424.jpg",
         "obj_array": [
+            {
+                "bbox": "1346,702,1264,614",
+                "center": "1978,1009",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152427.jpg",
         "obj_array": [
+            {
+                "bbox": "1264,418,1548,1143",
+                "center": "2038,990",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152430.jpg",
         "obj_array": [
+            {
+                "bbox": "901,178,2079,885",
+                "center": "1940,620",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152434.jpg",
         "obj_array": [
+            {
+                "bbox": "1685,502,639,1297",
+                "center": "2004,1150",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152435.jpg",
         "obj_array": [
+            {
+                "bbox": "1507,519,685,1280",
+                "center": "1850,1159",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152445.jpg",
         "obj_array": [
+            {
+                "bbox": "1526,416,841,991",
+                "center": "1946,912",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152447.jpg",
         "obj_array": [
+            {
+                "bbox": "1790,180,630,1244",
+                "center": "2105,802",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152449.jpg",
         "obj_array": [
+            {
+                "bbox": "1401,209,1370,1035",
+                "center": "2086,726",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152450.jpg",
         "obj_array": [
+            {
+                "bbox": "1550,168,1430,676",
+                "center": "2265,506",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152455.jpg",
         "obj_array": [
+            {
+                "bbox": "1423,719,1360,537",
+                "center": "2103,988",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152457.jpg",
         "obj_array": [
+            {
+                "bbox": "1338,630,1219,787",
+                "center": "1948,1024",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152459.jpg",
         "obj_array": [
+            {
+                "bbox": "1576,329,1409,1033",
+                "center": "2280,846",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152505.jpg",
         "obj_array": [
+            {
+                "bbox": "1307,209,765,1174",
+                "center": "1690,796",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152508.jpg",
         "obj_array": [
+            {
+                "bbox": "1620,0,754,1073",
+                "center": "1997,536",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152509.jpg",
         "obj_array": [
+            {
+                "bbox": "1966,495,478,1040",
+                "center": "2205,1015",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152515.jpg",
         "obj_array": [
+            {
+                "bbox": "1653,341,491,1223",
+                "center": "1898,952",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152516.jpg",
         "obj_array": [
+            {
+                "bbox": "1740,372,630,1254",
+                "center": "2055,999",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152517.jpg",
         "obj_array": [
+            {
+                "bbox": "1622,137,683,1277",
+                "center": "1964,776",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152522.jpg",
         "obj_array": [
+            {
+                "bbox": "1233,741,1310,510",
+                "center": "1888,996",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152526.jpg",
         "obj_array": [
+            {
+                "bbox": "1391,305,1265,777",
+                "center": "2024,694",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152527.jpg",
         "obj_array": [
+            {
+                "bbox": "1235,295,1803,643",
+                "center": "2136,616",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152530.jpg",
         "obj_array": [
+            {
+                "bbox": "1117,493,1270,760",
+                "center": "1752,873",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152532.jpg",
         "obj_array": [
+            {
+                "bbox": "1002,310,1245,991",
+                "center": "1624,806",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152626.jpg",
         "obj_array": [
+            {
+                "bbox": "268,1563,952,604",
+                "center": "744,1865",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152627.jpg",
         "obj_array": [
+            {
+                "bbox": "1617,175,548,948",
+                "center": "1891,649",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152629.jpg",
         "obj_array": [
+            {
+                "bbox": "1519,168,1026,522",
+                "center": "2032,429",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152632.jpg",
         "obj_array": [
+            {
+                "bbox": "1447,729,822,377",
+                "center": "1858,918",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152639.jpg",
         "obj_array": [
+            {
+                "bbox": "1536,437,670,744",
+                "center": "1871,809",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152703.jpg",
         "obj_array": [
+            {
+                "bbox": "1807,365,527,843",
+                "center": "2070,786",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "0,91,819,871",
+                "center": "410,526",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152704.jpg",
         "obj_array": [
+            {
+                "bbox": "1600,69,719,1009",
+                "center": "1960,574",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3526,375,473,792",
+                "center": "3762,771",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152706.jpg",
         "obj_array": [
+            {
+                "bbox": "1663,305,690,1167",
+                "center": "2008,888",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152707.jpg",
         "obj_array": [
+            {
+                "bbox": "1665,385,601,964",
+                "center": "1966,867",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3269,664,730,1058",
+                "center": "3634,1193",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152712.jpg",
         "obj_array": [
+            {
+                "bbox": "1793,575,562,1008",
+                "center": "2074,1079",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3401,743,598,955",
+                "center": "3700,1220",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152713.jpg",
         "obj_array": [
+            {
+                "bbox": "1670,339,553,970",
+                "center": "1946,824",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3324,449,675,1028",
+                "center": "3662,963",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152720.jpg",
         "obj_array": [
+            {
+                "bbox": "1680,527,649,981",
+                "center": "2004,1018",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152723.jpg",
         "obj_array": [
+            {
+                "bbox": "1641,392,637,1051",
+                "center": "1960,918",
+                "color": "0,155.961,255",
+                "label": "PP_packaging",
+                "label_index": 4,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152813.jpg",
         "obj_array": [
+            {
+                "bbox": "1209,322,1834,1323",
+                "center": "2126,984",
+                "color": "255,123.799,0",
+                "label": "LDPE_bag",
+                "label_index": 5,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152817.jpg",
         "obj_array": [
+            {
+                "bbox": "1016,283,1729,1338",
+                "center": "1880,952",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152819.jpg",
         "obj_array": [
+            {
+                "bbox": "656,0,2072,1352",
+                "center": "1692,676",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152824.jpg",
         "obj_array": [
+            {
+                "bbox": "1199,291,1813,1253",
+                "center": "2106,918",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152826.jpg",
         "obj_array": [
+            {
+                "bbox": "817,0,2173,1357",
+                "center": "1904,678",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152827.jpg",
         "obj_array": [
+            {
+                "bbox": "1473,808,1935,991",
+                "center": "2440,1304",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152843.jpg",
         "obj_array": [
+            {
+                "bbox": "661,0,2064,1549",
+                "center": "1693,774",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152847.jpg",
         "obj_array": [
+            {
+                "bbox": "745,0,1985,1590",
+                "center": "1738,795",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152849.jpg",
         "obj_array": [
+            {
+                "bbox": "771,129,1991,1464",
+                "center": "1766,861",
+                "color": "0,255,148.559",
+                "label": "HDPE_bag",
+                "label_index": 6,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152910.jpg",
         "obj_array": [
+            {
+                "bbox": "1377,478,1529,1040",
+                "center": "2142,998",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152913.jpg",
         "obj_array": [
+            {
+                "bbox": "1401,534,1635,1172",
+                "center": "2218,1120",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152915.jpg",
         "obj_array": [
+            {
+                "bbox": "1492,567,1443,1127",
+                "center": "2214,1130",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152919.jpg",
         "obj_array": [
+            {
+                "bbox": "1298,449,1572,1223",
+                "center": "2084,1060",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152920.jpg",
         "obj_array": [
+            {
+                "bbox": "1093,389,1712,1211",
+                "center": "1949,994",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152928.jpg",
         "obj_array": [
+            {
+                "bbox": "1276,370,1505,1259",
+                "center": "2028,1000",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230919_152934.jpg",
         "obj_array": [
+            {
+                "bbox": "1189,231,1688,1321",
+                "center": "2033,892",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135550.jpg",
         "obj_array": [
+            {
+                "bbox": "1411,81,1348,1466",
+                "center": "2085,814",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135552.jpg",
         "obj_array": [
+            {
+                "bbox": "1447,84,1711,1696",
+                "center": "2302,932",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135556.jpg",
         "obj_array": [
+            {
+                "bbox": "1572,320,1129,1479",
+                "center": "2136,1060",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135558.jpg",
         "obj_array": [
+            {
+                "bbox": "1663,317,952,1482",
+                "center": "2139,1058",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135602.jpg",
         "obj_array": [
+            {
+                "bbox": "1139,308,1553,1381",
+                "center": "1916,998",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135606.jpg",
         "obj_array": [
+            {
+                "bbox": "1545,368,1512,1340",
+                "center": "2301,1038",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135611.jpg",
         "obj_array": [
+            {
+                "bbox": "1391,81,1133,1324",
+                "center": "1958,743",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135612.jpg",
         "obj_array": [
+            {
+                "bbox": "1266,154,1258,1263",
+                "center": "1895,786",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230922_135615.jpg",
         "obj_array": [
+            {
+                "bbox": "1249,202,1484,1335",
+                "center": "1991,870",
+                "color": "56.9219,255,0",
+                "label": "PET_cup",
+                "label_index": 8,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154537.jpg",
         "obj_array": [
+            {
+                "bbox": "82,954,1568,2204",
+                "center": "866,2056",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154539.jpg",
         "obj_array": [
+            {
+                "bbox": "82,985,1449,2101",
+                "center": "806,2036",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154540.jpg",
         "obj_array": [
+            {
+                "bbox": "134,954,1391,2086",
+                "center": "830,1997",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154541.jpg",
         "obj_array": [
+            {
+                "bbox": "134,954,1407,2091",
+                "center": "838,2000",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154552.jpg",
         "obj_array": [
+            {
+                "bbox": "201,578,1309,2214",
+                "center": "856,1685",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154553.jpg",
         "obj_array": [
+            {
+                "bbox": "103,547,1505,2126",
+                "center": "856,1610",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154555.jpg",
         "obj_array": [
+            {
+                "bbox": "129,547,1448,2085",
+                "center": "853,1590",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154556.jpg",
         "obj_array": [
+            {
+                "bbox": "62,609,1427,2059",
+                "center": "776,1638",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154557.jpg",
         "obj_array": [
+            {
+                "bbox": "181,732,1251,1879",
+                "center": "806,1672",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154600.jpg",
         "obj_array": [
+            {
+                "bbox": "160,779,1257,1868",
+                "center": "788,1713",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154608.jpg",
         "obj_array": [
+            {
+                "bbox": "206,1083,1221,1833",
+                "center": "816,2000",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154609.jpg",
         "obj_array": [
+            {
+                "bbox": "165,1083,1267,1735",
+                "center": "798,1950",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154609_1.jpg",
         "obj_array": [
+            {
+                "bbox": "160,1052,1195,1879",
+                "center": "758,1992",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154611.jpg",
         "obj_array": [
+            {
+                "bbox": "170,1047,1143,1729",
+                "center": "742,1912",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154612.jpg",
         "obj_array": [
+            {
+                "bbox": "165,1001,1138,1775",
+                "center": "734,1888",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154613.jpg",
         "obj_array": [
+            {
+                "bbox": "150,1006,1272,1765",
+                "center": "786,1888",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154632.jpg",
         "obj_array": [
+            {
+                "bbox": "1124,190,1724,1227",
+                "center": "1986,804",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154633.jpg",
         "obj_array": [
+            {
+                "bbox": "1079,206,1834,1348",
+                "center": "1996,880",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154634.jpg",
         "obj_array": [
+            {
+                "bbox": "1170,271,1692,1199",
+                "center": "2016,870",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154635.jpg",
         "obj_array": [
+            {
+                "bbox": "1144,158,1767,1350",
+                "center": "2028,833",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154637.jpg",
         "obj_array": [
+            {
+                "bbox": "1146,214,1728,1270",
+                "center": "2010,849",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154648.jpg",
         "obj_array": [
+            {
+                "bbox": "874,211,1854,1297",
+                "center": "1801,860",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154649.jpg",
         "obj_array": [
+            {
+                "bbox": "918,271,1860,1177",
+                "center": "1848,860",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154650.jpg",
         "obj_array": [
+            {
+                "bbox": "975,221,1789,1299",
+                "center": "1870,870",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154652.jpg",
         "obj_array": [
+            {
+                "bbox": "985,214,1630,1275",
+                "center": "1800,852",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154702.jpg",
         "obj_array": [
+            {
+                "bbox": "966,170,1860,1367",
+                "center": "1896,854",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154703.jpg",
         "obj_array": [
+            {
+                "bbox": "990,206,1805,1269",
+                "center": "1892,840",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154704.jpg",
         "obj_array": [
+            {
+                "bbox": "918,231,1827,1193",
+                "center": "1832,828",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154705.jpg",
         "obj_array": [
+            {
+                "bbox": "947,283,1788,1180",
+                "center": "1841,873",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154706.jpg",
         "obj_array": [
+            {
+                "bbox": "944,300,1870,1184",
+                "center": "1879,892",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154707.jpg",
         "obj_array": [
+            {
+                "bbox": "1012,264,1747,1256",
+                "center": "1886,892",
+                "color": "173.318,0,255",
+                "label": "MULTI_bag",
+                "label_index": 7,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154720.jpg",
         "obj_array": [
+            {
+                "bbox": "444,1027,973,1455",
+                "center": "930,1754",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154721.jpg",
         "obj_array": [
+            {
+                "bbox": "481,1073,796,1414",
+                "center": "879,1780",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154722.jpg",
         "obj_array": [
+            {
+                "bbox": "465,1063,910,1362",
+                "center": "920,1744",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154723.jpg",
         "obj_array": [
+            {
+                "bbox": "434,1109,910,1409",
+                "center": "889,1814",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154724.jpg",
         "obj_array": [
+            {
+                "bbox": "429,1052,884,1518",
+                "center": "871,1811",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154724_1.jpg",
         "obj_array": [
+            {
+                "bbox": "398,1228,936,1424",
+                "center": "866,1940",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154725.jpg",
         "obj_array": [
+            {
+                "bbox": "786,949,755,1554",
+                "center": "1164,1726",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154729.jpg",
         "obj_array": [
+            {
+                "bbox": "367,1233,1008,1347",
+                "center": "871,1906",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154730.jpg",
         "obj_array": [
+            {
+                "bbox": "470,1150,735,1373",
+                "center": "838,1836",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154731.jpg",
         "obj_array": [
+            {
+                "bbox": "589,1269,647,1218",
+                "center": "912,1878",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154732.jpg",
         "obj_array": [
+            {
+                "bbox": "553,1187,662,1285",
+                "center": "884,1830",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154732_1.jpg",
         "obj_array": [
+            {
+                "bbox": "548,1223,688,1207",
+                "center": "892,1826",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154740.jpg",
         "obj_array": [
+            {
+                "bbox": "305,887,977,1492",
+                "center": "794,1633",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154741.jpg",
         "obj_array": [
+            {
+                "bbox": "413,1037,885,1440",
+                "center": "856,1757",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154741_1.jpg",
         "obj_array": [
+            {
+                "bbox": "408,1042,936,1456",
+                "center": "876,1770",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154742.jpg",
         "obj_array": [
+            {
+                "bbox": "377,1001,967,1460",
+                "center": "860,1731",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154743.jpg",
         "obj_array": [
+            {
+                "bbox": "398,1016,988,1420",
+                "center": "892,1726",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154753.jpg",
         "obj_array": [
+            {
+                "bbox": "475,1181,900,1193",
+                "center": "925,1778",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154754.jpg",
         "obj_array": [
+            {
+                "bbox": "398,1063,822,1213",
+                "center": "809,1670",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154755.jpg",
         "obj_array": [
+            {
+                "bbox": "398,1166,853,1084",
+                "center": "824,1708",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154756.jpg",
         "obj_array": [
+            {
+                "bbox": "341,1047,864,1270",
+                "center": "773,1682",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154756_1.jpg",
         "obj_array": [
+            {
+                "bbox": "300,1114,931,1167",
+                "center": "766,1698",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154757.jpg",
         "obj_array": [
+            {
+                "bbox": "325,1125,921,1213",
+                "center": "786,1732",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154808.jpg",
         "obj_array": [
+            {
+                "bbox": "393,1465,884,873",
+                "center": "835,1902",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154809.jpg",
         "obj_array": [
+            {
+                "bbox": "403,1429,714,733",
+                "center": "760,1796",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154810.jpg",
         "obj_array": [
+            {
+                "bbox": "455,1558,657,640",
+                "center": "784,1878",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154810_1.jpg",
         "obj_array": [
+            {
+                "bbox": "501,1496,673,661",
+                "center": "838,1826",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154811.jpg",
         "obj_array": [
+            {
+                "bbox": "553,1527,610,625",
+                "center": "858,1840",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154818.jpg",
         "obj_array": [
+            {
+                "bbox": "481,1073,662,1352",
+                "center": "812,1749",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154820.jpg",
         "obj_array": [
+            {
+                "bbox": "548,1192,620,1352",
+                "center": "858,1868",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154821.jpg",
         "obj_array": [
+            {
+                "bbox": "455,1233,734,1327",
+                "center": "822,1896",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154821_1.jpg",
         "obj_array": [
+            {
+                "bbox": "527,1161,678,1342",
+                "center": "866,1832",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154822.jpg",
         "obj_array": [
+            {
+                "bbox": "517,1249,677,1290",
+                "center": "856,1894",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154827.jpg",
         "obj_array": [
+            {
+                "bbox": "589,1058,642,1300",
+                "center": "910,1708",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154827_1.jpg",
         "obj_array": [
+            {
+                "bbox": "537,1171,683,1192",
+                "center": "878,1767",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154828.jpg",
         "obj_array": [
+            {
+                "bbox": "491,1223,662,1182",
+                "center": "822,1814",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154829.jpg",
         "obj_array": [
+            {
+                "bbox": "491,1223,595,1254",
+                "center": "788,1850",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154830.jpg",
         "obj_array": [
+            {
+                "bbox": "470,1316,662,1192",
+                "center": "801,1912",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154834.jpg",
         "obj_array": [
+            {
+                "bbox": "506,1372,631,1554",
+                "center": "822,2149",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154834_1.jpg",
         "obj_array": [
+            {
+                "bbox": "408,1181,735,1487",
+                "center": "776,1924",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154835.jpg",
         "obj_array": [
+            {
+                "bbox": "563,1192,621,1491",
+                "center": "874,1938",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154836.jpg",
         "obj_array": [
+            {
+                "bbox": "563,1212,631,1404",
+                "center": "878,1914",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154837.jpg",
         "obj_array": [
+            {
+                "bbox": "563,1212,693,1440",
+                "center": "910,1932",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154843.jpg",
         "obj_array": [
+            {
+                "bbox": "574,1058,688,1491",
+                "center": "918,1804",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154843_1.jpg",
         "obj_array": [
+            {
+                "bbox": "594,1083,657,1477",
+                "center": "922,1822",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154844.jpg",
         "obj_array": [
+            {
+                "bbox": "574,1083,651,1513",
+                "center": "900,1840",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154845.jpg",
         "obj_array": [
+            {
+                "bbox": "594,1006,673,1538",
+                "center": "930,1775",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20230926_154846.jpg",
         "obj_array": [
+            {
+                "bbox": "667,1135,714,1440",
+                "center": "1024,1855",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
