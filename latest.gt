@@ -6942,7 +6942,7 @@
                 "bbox": "444,1027,973,1455",
                 "center": "930,1754",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -6956,7 +6956,7 @@
                 "bbox": "481,1073,796,1414",
                 "center": "879,1780",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -6970,7 +6970,7 @@
                 "bbox": "465,1063,910,1362",
                 "center": "920,1744",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -6984,7 +6984,7 @@
                 "bbox": "434,1109,910,1409",
                 "center": "889,1814",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -6998,7 +6998,7 @@
                 "bbox": "429,1052,884,1518",
                 "center": "871,1811",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7012,7 +7012,7 @@
                 "bbox": "398,1228,936,1424",
                 "center": "866,1940",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7026,7 +7026,7 @@
                 "bbox": "786,949,755,1554",
                 "center": "1164,1726",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7040,7 +7040,7 @@
                 "bbox": "367,1233,1008,1347",
                 "center": "871,1906",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7054,7 +7054,7 @@
                 "bbox": "470,1150,735,1373",
                 "center": "838,1836",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7068,7 +7068,7 @@
                 "bbox": "589,1269,647,1218",
                 "center": "912,1878",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7082,7 +7082,7 @@
                 "bbox": "553,1187,662,1285",
                 "center": "884,1830",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7096,7 +7096,7 @@
                 "bbox": "548,1223,688,1207",
                 "center": "892,1826",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7110,7 +7110,7 @@
                 "bbox": "305,887,977,1492",
                 "center": "794,1633",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7124,7 +7124,7 @@
                 "bbox": "413,1037,885,1440",
                 "center": "856,1757",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7138,7 +7138,7 @@
                 "bbox": "408,1042,936,1456",
                 "center": "876,1770",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7152,7 +7152,7 @@
                 "bbox": "377,1001,967,1460",
                 "center": "860,1731",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7166,7 +7166,7 @@
                 "bbox": "398,1016,988,1420",
                 "center": "892,1726",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7180,7 +7180,7 @@
                 "bbox": "475,1181,900,1193",
                 "center": "925,1778",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7194,7 +7194,7 @@
                 "bbox": "398,1063,822,1213",
                 "center": "809,1670",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7208,7 +7208,7 @@
                 "bbox": "398,1166,853,1084",
                 "center": "824,1708",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7222,7 +7222,7 @@
                 "bbox": "341,1047,864,1270",
                 "center": "773,1682",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7236,7 +7236,7 @@
                 "bbox": "300,1114,931,1167",
                 "center": "766,1698",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -7250,7 +7250,7 @@
                 "bbox": "325,1125,921,1213",
                 "center": "786,1732",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14135,7 +14135,7 @@
                 "bbox": "98,2,396,381",
                 "center": "296,192",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14177,7 +14177,7 @@
                 "bbox": "70,2,372,273",
                 "center": "256,138",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14401,7 +14401,7 @@
                 "bbox": "119,55,336,245",
                 "center": "287,178",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14760,7 +14760,7 @@
                 "bbox": "0,3,490,380",
                 "center": "245,193",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14774,7 +14774,7 @@
                 "bbox": "0,74,335,214",
                 "center": "168,181",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14788,7 +14788,7 @@
                 "bbox": "31,69,457,256",
                 "center": "260,197",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14802,7 +14802,7 @@
                 "bbox": "3,20,508,363",
                 "center": "257,202",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14872,7 +14872,7 @@
                 "bbox": "72,5,402,377",
                 "center": "273,194",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14900,7 +14900,7 @@
                 "bbox": "35,0,379,370",
                 "center": "224,185",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14914,7 +14914,7 @@
                 "bbox": "29,97,469,286",
                 "center": "264,240",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14942,7 +14942,7 @@
                 "bbox": "62,15,341,342",
                 "center": "232,186",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14956,7 +14956,7 @@
                 "bbox": "55,2,442,370",
                 "center": "276,187",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14970,7 +14970,7 @@
                 "bbox": "92,24,287,300",
                 "center": "236,174",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14984,7 +14984,7 @@
                 "bbox": "2,21,509,358",
                 "center": "256,200",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -14998,7 +14998,7 @@
                 "bbox": "106,128,388,255",
                 "center": "300,256",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15040,7 +15040,7 @@
                 "bbox": "0,55,483,328",
                 "center": "242,219",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15068,7 +15068,7 @@
                 "bbox": "113,131,337,252",
                 "center": "282,257",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15152,7 +15152,7 @@
                 "bbox": "0,57,480,326",
                 "center": "240,220",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15166,7 +15166,7 @@
                 "bbox": "0,0,511,344",
                 "center": "256,172",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15180,7 +15180,7 @@
                 "bbox": "34,7,386,362",
                 "center": "227,188",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15208,7 +15208,7 @@
                 "bbox": "43,0,369,294",
                 "center": "228,147",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15222,7 +15222,7 @@
                 "bbox": "141,30,324,353",
                 "center": "303,206",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15236,7 +15236,7 @@
                 "bbox": "3,77,508,246",
                 "center": "257,200",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15390,7 +15390,7 @@
                 "bbox": "2,1,509,349",
                 "center": "256,176",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15418,7 +15418,7 @@
                 "bbox": "71,0,342,324",
                 "center": "242,162",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15530,7 +15530,7 @@
                 "bbox": "51,25,358,337",
                 "center": "230,194",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15558,7 +15558,7 @@
                 "bbox": "49,75,435,308",
                 "center": "266,229",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15572,7 +15572,7 @@
                 "bbox": "123,34,307,283",
                 "center": "276,176",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15600,7 +15600,7 @@
                 "bbox": "27,37,419,293",
                 "center": "236,184",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15614,7 +15614,7 @@
                 "bbox": "88,4,365,355",
                 "center": "270,182",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15656,7 +15656,7 @@
                 "bbox": "23,0,436,305",
                 "center": "241,152",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15712,7 +15712,7 @@
                 "bbox": "192,6,319,377",
                 "center": "352,194",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15810,7 +15810,7 @@
                 "bbox": "38,15,447,368",
                 "center": "262,199",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15824,7 +15824,7 @@
                 "bbox": "173,0,287,341",
                 "center": "316,170",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15908,7 +15908,7 @@
                 "bbox": "0,4,495,379",
                 "center": "248,194",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15922,7 +15922,7 @@
                 "bbox": "1,14,489,369",
                 "center": "246,198",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -15992,7 +15992,7 @@
                 "bbox": "8,55,503,328",
                 "center": "260,219",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16034,7 +16034,7 @@
                 "bbox": "77,8,335,375",
                 "center": "244,196",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16048,7 +16048,7 @@
                 "bbox": "9,5,502,378",
                 "center": "260,194",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16146,7 +16146,7 @@
                 "bbox": "20,95,491,288",
                 "center": "266,239",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16202,7 +16202,7 @@
                 "bbox": "131,106,305,184",
                 "center": "284,198",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16230,7 +16230,7 @@
                 "bbox": "9,65,502,318",
                 "center": "260,224",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16678,7 +16678,7 @@
                 "bbox": "184,64,313,319",
                 "center": "340,224",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16748,7 +16748,7 @@
                 "bbox": "6,0,505,335",
                 "center": "258,168",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16762,7 +16762,7 @@
                 "bbox": "52,43,425,340",
                 "center": "264,213",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16818,7 +16818,7 @@
                 "bbox": "0,16,465,367",
                 "center": "232,200",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
@@ -16846,7 +16846,7 @@
                 "bbox": "5,91,506,292",
                 "center": "258,237",
                 "color": "0,32.1622,255",
-                "label": "PETE_packaging",
+                "label": "PET_packaging",
                 "label_index": 9,
                 "landmark": "",
                 "landmark_len": 0
