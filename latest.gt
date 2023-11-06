@@ -13160,391 +13160,1210 @@
     {
         "filename": "20231027_122435.jpg",
         "obj_array": [
+            {
+                "bbox": "289,247,1397,2313",
+                "center": "988,1404",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122436.jpg",
         "obj_array": [
+            {
+                "bbox": "201,289,1526,2405",
+                "center": "964,1492",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122437.jpg",
         "obj_array": [
+            {
+                "bbox": "93,170,1639,2488",
+                "center": "912,1414",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122440.jpg",
         "obj_array": [
+            {
+                "bbox": "460,820,1339,2287",
+                "center": "1130,1964",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122441.jpg",
         "obj_array": [
+            {
+                "bbox": "310,640,1489,2338",
+                "center": "1054,1809",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122445.jpg",
         "obj_array": [
+            {
+                "bbox": "0,681,1541,2426",
+                "center": "770,1894",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122446.jpg",
         "obj_array": [
+            {
+                "bbox": "310,588,1489,2395",
+                "center": "1054,1786",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122448.jpg",
         "obj_array": [
+            {
+                "bbox": "0,691,1551,2085",
+                "center": "776,1734",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122449.jpg",
         "obj_array": [
+            {
+                "bbox": "0,505,1458,2132",
+                "center": "729,1571",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122452.jpg",
         "obj_array": [
+            {
+                "bbox": "222,588,1469,2235",
+                "center": "956,1706",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122453.jpg",
         "obj_array": [
+            {
+                "bbox": "139,629,1588,2240",
+                "center": "933,1749",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17532_jpg.rf.acdacd1cd8927452274270f95e9c50af.jpg",
         "obj_array": [
+            {
+                "bbox": "49,2,277,385",
+                "center": "188,194",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17589_jpg.rf.beeebfb79e2095a3cb877b099e3f5200.jpg",
         "obj_array": [
+            {
+                "bbox": "220,64,404,958",
+                "center": "422,543",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17597_jpg.rf.08ba7a58e449c28f3291ef8806fb16c7.jpg",
         "obj_array": [
+            {
+                "bbox": "32,9,150,353",
+                "center": "107,186",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17686_jpg.rf.6490cdf4b8bd5ac877d4485b4a0d43c1.jpg",
         "obj_array": [
+            {
+                "bbox": "29,1,157,218",
+                "center": "108,110",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17758_jpg.rf.e5fe4e9c71f929e580504489506aca18.jpg",
         "obj_array": [
+            {
+                "bbox": "100,0,117,204",
+                "center": "158,102",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "0,0,112,209",
+                "center": "56,104",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17762_jpg.rf.4ee4091f9b995b71dc7d3853a6cfdfcc.jpg",
         "obj_array": [
+            {
+                "bbox": "12,5,115,204",
+                "center": "70,107",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17779_jpg.rf.958523503cfede5bd7098b596891ea5a.jpg",
         "obj_array": [
+            {
+                "bbox": "102,32,448,203",
+                "center": "326,134",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "102,214,325,98",
+                "center": "264,263",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17831_jpg.rf.bf4fc787eb8633ed2931cb19f39798b8.jpg",
         "obj_array": [
+            {
+                "bbox": "16,77,670,333",
+                "center": "351,244",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17883_jpg.rf.09d7ef37f9bb73e39af81456d3923615.jpg",
         "obj_array": [
+            {
+                "bbox": "34,5,378,527",
+                "center": "223,268",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17887_jpg.rf.a2967f8162a590b0ea7af4f1e5b803d5.jpg",
         "obj_array": [
+            {
+                "bbox": "42,6,341,538",
+                "center": "212,275",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17909_jpg.rf.0550a23a1688ab54622b19182809e2cf.jpg",
         "obj_array": [
+            {
+                "bbox": "299,0,353,973",
+                "center": "476,486",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17919_jpg.rf.4a6f957cff280008134d6f2c872bce6e.jpg",
         "obj_array": [
+            {
+                "bbox": "88,85,239,111",
+                "center": "208,140",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17925_jpg.rf.b4a098198cd6e1ec81ad2d0264511e25.jpg",
         "obj_array": [
+            {
+                "bbox": "192,123,117,72",
+                "center": "250,159",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17927_jpg.rf.6625c6e9e664b11bca2abffbbbd96f72.jpg",
         "obj_array": [
+            {
+                "bbox": "43,84,96,43",
+                "center": "91,106",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17931_jpg.rf.72265b9fda0aa44b6099f2e83ce3b039.jpg",
         "obj_array": [
+            {
+                "bbox": "17,124,303,58",
+                "center": "168,153",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "3,155,317,48",
+                "center": "162,179",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17941_jpg.rf.b0ec7825a2e14739e1ff745a9a5b0e9a.jpg",
         "obj_array": [
+            {
+                "bbox": "62,0,176,137",
+                "center": "150,68",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17955_jpg.rf.ad27c9ec25446d641715d45332c3efa3.jpg",
         "obj_array": [
+            {
+                "bbox": "72,0,163,247",
+                "center": "154,124",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_17991_jpg.rf.422a169f71066618c9a3d45d379775eb.jpg",
         "obj_array": [
+            {
+                "bbox": "6,4,539,289",
+                "center": "276,148",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18001_jpg.rf.60917e7d1f8e3bb6ea6bfec4c403419c.jpg",
         "obj_array": [
+            {
+                "bbox": "12,0,303,243",
+                "center": "164,122",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18015_jpg.rf.94306cc3e11deec38c5f72d3da710289.jpg",
         "obj_array": [
+            {
+                "bbox": "436,22,223,749",
+                "center": "548,396",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "11,359,512,406",
+                "center": "267,562",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18021_jpg.rf.0417d87b84d3b5c6cfb71154c9a9879b.jpg",
         "obj_array": [
+            {
+                "bbox": "177,13,109,313",
+                "center": "232,170",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18025_jpg.rf.dfea19f38c451691b798a79a46b3a37b.jpg",
         "obj_array": [
+            {
+                "bbox": "186,34,141,298",
+                "center": "256,183",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18028_jpg.rf.1b1684ac82c169acad28b17ad7d65e15.jpg",
         "obj_array": [
+            {
+                "bbox": "10,15,73,209",
+                "center": "46,120",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "73,20,107,208",
+                "center": "126,124",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "160,26,79,197",
+                "center": "200,124",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "228,71,35,157",
+                "center": "246,150",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18047_jpg.rf.621cddc42f2575f3efbfae2d401fe1cd.jpg",
         "obj_array": [
+            {
+                "bbox": "173,196,243,395",
+                "center": "294,394",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18050_jpg.rf.105a5e4ae09d062528b14696e578af98.jpg",
         "obj_array": [
+            {
+                "bbox": "1,314,575,281",
+                "center": "288,454",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18088_jpg.rf.ca7504a19c40ceba554666b2c337ba03.jpg",
         "obj_array": [
+            {
+                "bbox": "38,303,496,300",
+                "center": "286,453",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18089_jpg.rf.c2e3210d48ca5333a174fe661513c226.jpg",
         "obj_array": [
+            {
+                "bbox": "66,173,373,432",
+                "center": "252,389",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18094_jpg.rf.c9859607f293a77b2e0f00bbd9e3cf4d.jpg",
         "obj_array": [
+            {
+                "bbox": "158,84,179,531",
+                "center": "248,350",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18103_jpg.rf.48c2b89a3ace13e99fb7e5fdc090dae1.jpg",
         "obj_array": [
+            {
+                "bbox": "218,58,554,465",
+                "center": "495,290",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18105_jpg.rf.f80b5a354855c7452715f78de0a22e6b.jpg",
         "obj_array": [
+            {
+                "bbox": "322,0,361,538",
+                "center": "502,269",
+                "color": "49.5195,0,255",
+                "label": "PP_bottle",
+                "label_index": 2,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18112_jpg.rf.5a6f4339c3498a5f80571b6218ca7306.jpg",
         "obj_array": [
+            {
+                "bbox": "286,8,483,577",
+                "center": "528,296",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18113_jpg.rf.8e3761c7beb2730318d08137e867328f.jpg",
         "obj_array": [
+            {
+                "bbox": "24,156,966,441",
+                "center": "507,376",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18115_jpg.rf.deb0ea0fc8ae6183ea814b298836bf8e.jpg",
         "obj_array": [
+            {
+                "bbox": "0,61,1000,424",
+                "center": "500,273",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18117_jpg.rf.7ca547d683097fd81611afb388fa5412.jpg",
         "obj_array": [
+            {
+                "bbox": "134,136,459,663",
+                "center": "364,468",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18122_jpg.rf.203688be996ad4bae7b17ffa7383a83d.jpg",
         "obj_array": [
+            {
+                "bbox": "217,0,427,510",
+                "center": "430,255",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18124_jpg.rf.edb2cc59ae72ec024944a5b00d053d41.jpg",
         "obj_array": [
+            {
+                "bbox": "166,46,564,625",
+                "center": "448,358",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18131_jpg.rf.c2e4a4ac59149d9ea2433c6142afb59d.jpg",
         "obj_array": [
+            {
+                "bbox": "110,23,646,648",
+                "center": "433,347",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18134_jpg.rf.7611084031f132dff352d0c9f245e60c.jpg",
         "obj_array": [
+            {
+                "bbox": "370,198,487,421",
+                "center": "614,408",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18139_jpg.rf.7807f73e18b51e9abdb18c0061e46327.jpg",
         "obj_array": [
+            {
+                "bbox": "154,0,587,658",
+                "center": "448,329",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18144_jpg.rf.65bfdf5a153d3fc4ed4161517b2217ab.jpg",
         "obj_array": [
+            {
+                "bbox": "147,0,569,687",
+                "center": "432,344",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18146_jpg.rf.27b7bd3b10424fb94586c22f996bde25.jpg",
         "obj_array": [
+            {
+                "bbox": "0,146,991,586",
+                "center": "496,439",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18164_jpg.rf.6037a57b12ba1e6d960f4c1d7fcda2ea.jpg",
         "obj_array": [
+            {
+                "bbox": "197,0,519,635",
+                "center": "456,318",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18176_jpg.rf.909af1a2c5f8bb9b331e381fcfd38de5.jpg",
         "obj_array": [
+            {
+                "bbox": "255,88,458,614",
+                "center": "484,395",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18177_jpg.rf.2c7d6fc2969cd6eb8daac54958d403fc.jpg",
         "obj_array": [
+            {
+                "bbox": "134,79,889,590",
+                "center": "578,374",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18179_jpg.rf.a1490bb0d3c7c64656d9aea3c4ee1635.jpg",
         "obj_array": [
+            {
+                "bbox": "0,14,685,497",
+                "center": "342,262",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18185_jpg.rf.d76d1b10650d69f34d087ec01855b35d.jpg",
         "obj_array": [
+            {
+                "bbox": "219,46,259,630",
+                "center": "348,361",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "315,549,452,311",
+                "center": "541,704",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18202_jpg.rf.fc25415e9134a5400cb6dbe831eff9e2.jpg",
         "obj_array": [
+            {
+                "bbox": "315,307,604,442",
+                "center": "617,528",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "0,0,803,386",
+                "center": "402,193",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18206_jpg.rf.a643837be46ef4b1db173cce03888efe.jpg",
         "obj_array": [
+            {
+                "bbox": "181,0,527,514",
+                "center": "444,257",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "593,60,375,539",
+                "center": "780,330",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "250,419,582,348",
+                "center": "541,593",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18209_jpg.rf.468fb488f3457d620677eef08d6e00d4.jpg",
         "obj_array": [
+            {
+                "bbox": "172,285,125,358",
+                "center": "234,464",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "97,94,176,549",
+                "center": "185,368",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            },
+            {
+                "bbox": "249,119,168,524",
+                "center": "333,381",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "img_18215_jpg.rf.8ec42c1a2b314c12ff6a288dba4566d7.jpg",
         "obj_array": [
+            {
+                "bbox": "62,23,149,330",
+                "center": "136,188",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic103_jpg.rf.d114ed957e85e43e02c5fc550fdd983e.jpg",
         "obj_array": [
+            {
+                "bbox": "98,2,396,381",
+                "center": "296,192",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic105_jpg.rf.e0f52e594d41520e50919cc12ab1825e.jpg",
         "obj_array": [
+            {
+                "bbox": "169,38,286,345",
+                "center": "312,210",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic106_jpg.rf.278a8267bd9edeee715b9d3b9e761327.jpg",
         "obj_array": [
+            {
+                "bbox": "0,97,508,223",
+                "center": "254,208",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic108_jpg.rf.169c49193da82ba8832446b43e8dcf64.jpg",
         "obj_array": [
+            {
+                "bbox": "70,2,372,273",
+                "center": "256,138",
+                "color": "0,32.1622,255",
+                "label": "PETE_packaging",
+                "label_index": 9,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic111_jpg.rf.ee1e4ee3fd994d31a48cddb8d9e1e233.jpg",
         "obj_array": [
+            {
+                "bbox": "0,3,440,380",
+                "center": "220,193",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic112_jpg.rf.11470fcf8984a001ec09b89f41431e92.jpg",
         "obj_array": [
+            {
+                "bbox": "0,57,444,319",
+                "center": "222,216",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic115_jpg.rf.e861f274893262e725c13aa56a1a545e.jpg",
         "obj_array": [
+            {
+                "bbox": "8,0,503,377",
+                "center": "260,188",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic116_jpg.rf.108e531fbd0f458e5039aa502e8f0833.jpg",
         "obj_array": [
+            {
+                "bbox": "41,29,470,327",
+                "center": "276,192",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic117_jpg.rf.221a0678736d9c4d2feb0558776ebb93.jpg",
         "obj_array": [
+            {
+                "bbox": "0,30,465,353",
+                "center": "232,206",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic119_jpg.rf.e6171df8af1016a0087153c8ff38def2.jpg",
         "obj_array": [
+            {
+                "bbox": "9,0,502,383",
+                "center": "260,192",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic123_jpg.rf.a75253fcd81cad3947b2c444aadfaa69.jpg",
         "obj_array": [
+            {
+                "bbox": "0,23,431,360",
+                "center": "216,203",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic126_jpg.rf.89ff45af45ece031144577f264093bee.jpg",
         "obj_array": [
+            {
+                "bbox": "198,3,230,351",
+                "center": "313,178",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic127_jpg.rf.959e1800366e1ac4a6990524354ea3f2.jpg",
         "obj_array": [
+            {
+                "bbox": "208,60,261,234",
+                "center": "338,177",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic131_jpg.rf.d6a11bb01a7097d1eb2fd48e506ccdc1.jpg",
         "obj_array": [
+            {
+                "bbox": "102,93,233,228",
+                "center": "218,207",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic133_jpg.rf.0a0d3e30edcc16b05caef02e2965d45d.jpg",
         "obj_array": [
+            {
+                "bbox": "4,0,495,352",
+                "center": "252,176",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic135_jpg.rf.fe58432ac162c6b40adba77f588108c8.jpg",
         "obj_array": [
+            {
+                "bbox": "127,70,237,223",
+                "center": "246,182",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "plastic136_jpg.rf.6f8fd0e2042f4c973280bd3baf51f9c5.jpg",
         "obj_array": [
+            {
+                "bbox": "113,94,218,229",
+                "center": "222,208",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
