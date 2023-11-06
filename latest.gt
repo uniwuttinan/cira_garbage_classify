@@ -10448,391 +10448,1093 @@
     {
         "filename": "20231010_122059.jpg",
         "obj_array": [
+            {
+                "bbox": "439,263,879,2111",
+                "center": "878,1318",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231010_122101.jpg",
         "obj_array": [
+            {
+                "bbox": "439,1109,843,1378",
+                "center": "860,1798",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231010_122106.jpg",
         "obj_array": [
+            {
+                "bbox": "512,1424,796,934",
+                "center": "910,1891",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231010_122122.jpg",
         "obj_array": [
+            {
+                "bbox": "444,794,812,1698",
+                "center": "850,1643",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231010_122124.jpg",
         "obj_array": [
+            {
+                "bbox": "460,815,708,1636",
+                "center": "814,1633",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231010_122127.jpg",
         "obj_array": [
+            {
+                "bbox": "532,1615,652,1166",
+                "center": "858,2198",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231010_122146.jpg",
         "obj_array": [
+            {
+                "bbox": "543,1042,703,1507",
+                "center": "894,1796",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231010_122148.jpg",
         "obj_array": [
+            {
+                "bbox": "450,495,770,1951",
+                "center": "835,1470",
+                "color": "255,0,255",
+                "label": "PET_bottle",
+                "label_index": 0,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121552.jpg",
         "obj_array": [
+            {
+                "bbox": "460,753,864,1497",
+                "center": "892,1502",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121553.jpg",
         "obj_array": [
+            {
+                "bbox": "594,815,869,1538",
+                "center": "1028,1584",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121558.jpg",
         "obj_array": [
+            {
+                "bbox": "486,645,946,1491",
+                "center": "959,1390",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121601.jpg",
         "obj_array": [
+            {
+                "bbox": "341,495,936,1672",
+                "center": "809,1331",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121605.jpg",
         "obj_array": [
+            {
+                "bbox": "377,665,895,1482",
+                "center": "824,1406",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121606.jpg",
         "obj_array": [
+            {
+                "bbox": "351,758,900,1497",
+                "center": "801,1506",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121610.jpg",
         "obj_array": [
+            {
+                "bbox": "382,588,854,1584",
+                "center": "809,1380",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121610_1.jpg",
         "obj_array": [
+            {
+                "bbox": "305,547,946,1693",
+                "center": "778,1394",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121619.jpg",
         "obj_array": [
+            {
+                "bbox": "475,944,895,1419",
+                "center": "922,1654",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121620.jpg",
         "obj_array": [
+            {
+                "bbox": "444,913,854,1523",
+                "center": "871,1674",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121625.jpg",
         "obj_array": [
+            {
+                "bbox": "439,758,931,1611",
+                "center": "904,1564",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121626.jpg",
         "obj_array": [
+            {
+                "bbox": "232,634,1086,1585",
+                "center": "775,1426",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121630.jpg",
         "obj_array": [
+            {
+                "bbox": "274,629,1070,1703",
+                "center": "809,1480",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121632.jpg",
         "obj_array": [
+            {
+                "bbox": "279,640,1076,1636",
+                "center": "817,1458",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121633.jpg",
         "obj_array": [
+            {
+                "bbox": "434,867,936,1615",
+                "center": "902,1674",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121638.jpg",
         "obj_array": [
+            {
+                "bbox": "429,779,1008,1657",
+                "center": "933,1608",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121653.jpg",
         "obj_array": [
+            {
+                "bbox": "336,629,1029,1554",
+                "center": "850,1406",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121656.jpg",
         "obj_array": [
+            {
+                "bbox": "465,325,1055,1729",
+                "center": "992,1190",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121657.jpg",
         "obj_array": [
+            {
+                "bbox": "470,356,973,1713",
+                "center": "956,1212",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121702.jpg",
         "obj_array": [
+            {
+                "bbox": "403,258,1112,1997",
+                "center": "959,1256",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121703.jpg",
         "obj_array": [
+            {
+                "bbox": "377,299,1174,1935",
+                "center": "964,1266",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121706.jpg",
         "obj_array": [
+            {
+                "bbox": "258,495,1216,2044",
+                "center": "866,1517",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121707.jpg",
         "obj_array": [
+            {
+                "bbox": "196,361,1283,2126",
+                "center": "838,1424",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121710.jpg",
         "obj_array": [
+            {
+                "bbox": "212,469,1200,2116",
+                "center": "812,1527",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121712.jpg",
         "obj_array": [
+            {
+                "bbox": "253,438,1298,2183",
+                "center": "902,1530",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121715.jpg",
         "obj_array": [
+            {
+                "bbox": "72,526,1448,2266",
+                "center": "796,1659",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121716.jpg",
         "obj_array": [
+            {
+                "bbox": "206,474,1340,2282",
+                "center": "876,1615",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121722.jpg",
         "obj_array": [
+            {
+                "bbox": "253,696,1402,1925",
+                "center": "954,1658",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121723.jpg",
         "obj_array": [
+            {
+                "bbox": "315,784,1355,1874",
+                "center": "992,1721",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121727.jpg",
         "obj_array": [
+            {
+                "bbox": "356,944,1361,1765",
+                "center": "1036,1826",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121729.jpg",
         "obj_array": [
+            {
+                "bbox": "196,779,1309,1894",
+                "center": "850,1726",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121733.jpg",
         "obj_array": [
+            {
+                "bbox": "315,609,1252,1806",
+                "center": "941,1512",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121733_1.jpg",
         "obj_array": [
+            {
+                "bbox": "398,640,1226,1837",
+                "center": "1011,1558",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121738.jpg",
         "obj_array": [
+            {
+                "bbox": "336,732,1427,1858",
+                "center": "1050,1661",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121739.jpg",
         "obj_array": [
+            {
+                "bbox": "300,748,1370,1879",
+                "center": "985,1688",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121748.jpg",
         "obj_array": [
+            {
+                "bbox": "325,314,1195,2199",
+                "center": "922,1414",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121749.jpg",
         "obj_array": [
+            {
+                "bbox": "274,407,1220,2044",
+                "center": "884,1429",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121753.jpg",
         "obj_array": [
+            {
+                "bbox": "284,480,1060,1940",
+                "center": "814,1450",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121754.jpg",
         "obj_array": [
+            {
+                "bbox": "232,490,1154,1868",
+                "center": "809,1424",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121757.jpg",
         "obj_array": [
+            {
+                "bbox": "362,536,1008,1796",
+                "center": "866,1434",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121757_1.jpg",
         "obj_array": [
+            {
+                "bbox": "351,521,1102,1791",
+                "center": "902,1416",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121800.jpg",
         "obj_array": [
+            {
+                "bbox": "325,552,1050,1780",
+                "center": "850,1442",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121801.jpg",
         "obj_array": [
+            {
+                "bbox": "268,572,1030,1833",
+                "center": "783,1488",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121804.jpg",
         "obj_array": [
+            {
+                "bbox": "268,490,1107,1775",
+                "center": "822,1378",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121812.jpg",
         "obj_array": [
+            {
+                "bbox": "377,732,1174,1838",
+                "center": "964,1651",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121814.jpg",
         "obj_array": [
+            {
+                "bbox": "212,794,1231,1745",
+                "center": "828,1666",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121818.jpg",
         "obj_array": [
+            {
+                "bbox": "450,794,1117,1766",
+                "center": "1008,1677",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121819.jpg",
         "obj_array": [
+            {
+                "bbox": "429,779,1205,1817",
+                "center": "1032,1688",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121821.jpg",
         "obj_array": [
+            {
+                "bbox": "237,732,1231,1781",
+                "center": "852,1622",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121823.jpg",
         "obj_array": [
+            {
+                "bbox": "320,686,1211,1786",
+                "center": "926,1579",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121826.jpg",
         "obj_array": [
+            {
+                "bbox": "294,660,1164,1925",
+                "center": "876,1622",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121827.jpg",
         "obj_array": [
+            {
+                "bbox": "279,743,1231,1760",
+                "center": "894,1623",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121830.jpg",
         "obj_array": [
+            {
+                "bbox": "243,769,1293,1997",
+                "center": "890,1768",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121831.jpg",
         "obj_array": [
+            {
+                "bbox": "289,732,1402,2065",
+                "center": "990,1764",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121845.jpg",
         "obj_array": [
+            {
+                "bbox": "310,402,1091,2008",
+                "center": "856,1406",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121846.jpg",
         "obj_array": [
+            {
+                "bbox": "227,464,1236,1925",
+                "center": "845,1426",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121850.jpg",
         "obj_array": [
+            {
+                "bbox": "279,428,1205,1925",
+                "center": "882,1390",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121851.jpg",
         "obj_array": [
+            {
+                "bbox": "341,495,1153,1941",
+                "center": "918,1466",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121853.jpg",
         "obj_array": [
+            {
+                "bbox": "191,562,1184,2059",
+                "center": "783,1592",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121855.jpg",
         "obj_array": [
+            {
+                "bbox": "289,526,1200,2132",
+                "center": "889,1592",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121857.jpg",
         "obj_array": [
+            {
+                "bbox": "253,526,1179,2230",
+                "center": "842,1641",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121858.jpg",
         "obj_array": [
+            {
+                "bbox": "279,681,1288,2090",
+                "center": "923,1726",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121901.jpg",
         "obj_array": [
+            {
+                "bbox": "263,634,1112,2173",
+                "center": "819,1720",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121902.jpg",
         "obj_array": [
+            {
+                "bbox": "315,691,1205,2070",
+                "center": "918,1726",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121904.jpg",
         "obj_array": [
+            {
+                "bbox": "222,578,1262,2219",
+                "center": "853,1688",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121905.jpg",
         "obj_array": [
+            {
+                "bbox": "243,583,1267,2183",
+                "center": "876,1674",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121920.jpg",
         "obj_array": [
+            {
+                "bbox": "160,882,1148,1972",
+                "center": "734,1868",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121921.jpg",
         "obj_array": [
+            {
+                "bbox": "274,975,1189,1894",
+                "center": "868,1922",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121924.jpg",
         "obj_array": [
+            {
+                "bbox": "248,784,1231,2070",
+                "center": "864,1819",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121925.jpg",
         "obj_array": [
+            {
+                "bbox": "243,825,1220,1962",
+                "center": "853,1806",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
@@ -10843,76 +11545,211 @@
     {
         "filename": "20231027_121930.jpg",
         "obj_array": [
+            {
+                "bbox": "139,763,1454,2106",
+                "center": "866,1816",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121934.jpg",
         "obj_array": [
+            {
+                "bbox": "222,929,1272,2193",
+                "center": "858,2026",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121935.jpg",
         "obj_array": [
+            {
+                "bbox": "212,810,1251,2126",
+                "center": "838,1873",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121938.jpg",
         "obj_array": [
+            {
+                "bbox": "150,846,1355,2137",
+                "center": "828,1914",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121939.jpg",
         "obj_array": [
+            {
+                "bbox": "191,841,1309,2106",
+                "center": "846,1894",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121953.jpg",
         "obj_array": [
+            {
+                "bbox": "300,588,1112,1827",
+                "center": "856,1502",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121954.jpg",
         "obj_array": [
+            {
+                "bbox": "393,505,1055,1853",
+                "center": "920,1432",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121957.jpg",
         "obj_array": [
+            {
+                "bbox": "403,552,1034,1889",
+                "center": "920,1496",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_121958.jpg",
         "obj_array": [
+            {
+                "bbox": "444,526,1040,1801",
+                "center": "964,1426",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122000.jpg",
         "obj_array": [
+            {
+                "bbox": "294,526,1050,1843",
+                "center": "819,1448",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122001.jpg",
         "obj_array": [
+            {
+                "bbox": "248,572,1179,1745",
+                "center": "838,1444",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122003.jpg",
         "obj_array": [
+            {
+                "bbox": "248,572,1055,1838",
+                "center": "776,1491",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122004.jpg",
         "obj_array": [
+            {
+                "bbox": "253,521,1210,1873",
+                "center": "858,1458",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122006.jpg",
         "obj_array": [
+            {
+                "bbox": "305,578,1091,1904",
+                "center": "850,1530",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122007.jpg",
         "obj_array": [
+            {
+                "bbox": "413,578,1004,1889",
+                "center": "915,1522",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
@@ -10923,501 +11760,1401 @@
     {
         "filename": "20231027_122010.jpg",
         "obj_array": [
+            {
+                "bbox": "362,423,1163,2049",
+                "center": "944,1448",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122015.jpg",
         "obj_array": [
+            {
+                "bbox": "398,836,1303,1827",
+                "center": "1050,1750",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122016.jpg",
         "obj_array": [
+            {
+                "bbox": "372,774,1283,1847",
+                "center": "1014,1698",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122021.jpg",
         "obj_array": [
+            {
+                "bbox": "82,691,1381,1977",
+                "center": "772,1680",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122021_1.jpg",
         "obj_array": [
+            {
+                "bbox": "51,892,1464,1838",
+                "center": "783,1811",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122024.jpg",
         "obj_array": [
+            {
+                "bbox": "67,743,1283,1951",
+                "center": "708,1718",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122025.jpg",
         "obj_array": [
+            {
+                "bbox": "20,820,1454,1905",
+                "center": "747,1772",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122028.jpg",
         "obj_array": [
+            {
+                "bbox": "98,830,1427,2080",
+                "center": "812,1870",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122029.jpg",
         "obj_array": [
+            {
+                "bbox": "310,892,1184,2018",
+                "center": "902,1901",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122032.jpg",
         "obj_array": [
+            {
+                "bbox": "118,640,1433,2415",
+                "center": "834,1848",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122033.jpg",
         "obj_array": [
+            {
+                "bbox": "98,712,1479,2214",
+                "center": "838,1819",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122044.jpg",
         "obj_array": [
+            {
+                "bbox": "113,459,1376,1992",
+                "center": "801,1455",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122045.jpg",
         "obj_array": [
+            {
+                "bbox": "181,464,1329,2137",
+                "center": "846,1532",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122048.jpg",
         "obj_array": [
+            {
+                "bbox": "263,381,1180,1977",
+                "center": "853,1370",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122048_1.jpg",
         "obj_array": [
+            {
+                "bbox": "258,412,1159,1915",
+                "center": "838,1370",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122051.jpg",
         "obj_array": [
+            {
+                "bbox": "284,376,1133,1879",
+                "center": "850,1316",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122052.jpg",
         "obj_array": [
+            {
+                "bbox": "274,412,1044,1838",
+                "center": "796,1331",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122054.jpg",
         "obj_array": [
+            {
+                "bbox": "165,299,1236,1966",
+                "center": "783,1282",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122055.jpg",
         "obj_array": [
+            {
+                "bbox": "201,350,1211,1936",
+                "center": "806,1318",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122057.jpg",
         "obj_array": [
+            {
+                "bbox": "72,309,1376,2039",
+                "center": "760,1328",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122058.jpg",
         "obj_array": [
+            {
+                "bbox": "170,211,1283,2168",
+                "center": "812,1295",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122103.jpg",
         "obj_array": [
+            {
+                "bbox": "491,815,1045,1853",
+                "center": "1014,1742",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122104.jpg",
         "obj_array": [
+            {
+                "bbox": "325,676,1237,1992",
+                "center": "944,1672",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122109.jpg",
         "obj_array": [
+            {
+                "bbox": "279,738,1314,1971",
+                "center": "936,1724",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122110.jpg",
         "obj_array": [
+            {
+                "bbox": "98,670,1262,2142",
+                "center": "729,1741",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122114.jpg",
         "obj_array": [
+            {
+                "bbox": "181,851,1334,2039",
+                "center": "848,1870",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122115.jpg",
         "obj_array": [
+            {
+                "bbox": "67,908,1474,2106",
+                "center": "804,1961",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122118.jpg",
         "obj_array": [
+            {
+                "bbox": "175,763,1516,2375",
+                "center": "933,1950",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122119.jpg",
         "obj_array": [
+            {
+                "bbox": "144,753,1573,2462",
+                "center": "930,1984",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122122.jpg",
         "obj_array": [
+            {
+                "bbox": "217,681,1546,2379",
+                "center": "990,1870",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122123.jpg",
         "obj_array": [
+            {
+                "bbox": "279,619,1520,2555",
+                "center": "1039,1896",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122126.jpg",
         "obj_array": [
+            {
+                "bbox": "67,572,1629,2514",
+                "center": "882,1829",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122126_1.jpg",
         "obj_array": [
+            {
+                "bbox": "5,645,1634,2467",
+                "center": "822,1878",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122130.jpg",
         "obj_array": [
+            {
+                "bbox": "248,691,1505,2323",
+                "center": "1000,1852",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122131.jpg",
         "obj_array": [
+            {
+                "bbox": "279,779,1402,2214",
+                "center": "980,1886",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122139.jpg",
         "obj_array": [
+            {
+                "bbox": "398,459,1153,1837",
+                "center": "974,1378",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122141.jpg",
         "obj_array": [
+            {
+                "bbox": "341,464,1215,1765",
+                "center": "948,1346",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122147.jpg",
         "obj_array": [
+            {
+                "bbox": "325,536,1195,1771",
+                "center": "922,1422",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122148.jpg",
         "obj_array": [
+            {
+                "bbox": "372,356,1179,1951",
+                "center": "962,1332",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122151.jpg",
         "obj_array": [
+            {
+                "bbox": "186,402,1314,2044",
+                "center": "843,1424",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122152.jpg",
         "obj_array": [
+            {
+                "bbox": "263,418,1221,2007",
+                "center": "874,1422",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122154.jpg",
         "obj_array": [
+            {
+                "bbox": "175,449,1350,2012",
+                "center": "850,1455",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122155.jpg",
         "obj_array": [
+            {
+                "bbox": "222,397,1288,2044",
+                "center": "866,1419",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122157.jpg",
         "obj_array": [
+            {
+                "bbox": "0,521,1386,2075",
+                "center": "693,1558",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122158.jpg",
         "obj_array": [
+            {
+                "bbox": "77,433,1443,2178",
+                "center": "798,1522",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122201.jpg",
         "obj_array": [
+            {
+                "bbox": "82,743,1392,2044",
+                "center": "778,1765",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122202.jpg",
         "obj_array": [
+            {
+                "bbox": "191,707,1345,2100",
+                "center": "864,1757",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122205.jpg",
         "obj_array": [
+            {
+                "bbox": "191,980,1427,1796",
+                "center": "904,1878",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122206.jpg",
         "obj_array": [
+            {
+                "bbox": "186,748,1339,1951",
+                "center": "856,1724",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122213.jpg",
         "obj_array": [
+            {
+                "bbox": "0,769,1427,1883",
+                "center": "714,1710",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122215.jpg",
         "obj_array": [
+            {
+                "bbox": "232,732,1412,1972",
+                "center": "938,1718",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122219.jpg",
         "obj_array": [
+            {
+                "bbox": "377,1016,1422,1962",
+                "center": "1088,1997",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122221.jpg",
         "obj_array": [
+            {
+                "bbox": "325,934,1449,1997",
+                "center": "1050,1932",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122224.jpg",
         "obj_array": [
+            {
+                "bbox": "103,794,1438,1982",
+                "center": "822,1785",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122225.jpg",
         "obj_array": [
+            {
+                "bbox": "31,769,1546,1920",
+                "center": "804,1729",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122228.jpg",
         "obj_array": [
+            {
+                "bbox": "0,805,1422,1945",
+                "center": "711,1778",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122229.jpg",
         "obj_array": [
+            {
+                "bbox": "20,856,1448,1869",
+                "center": "744,1790",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122241.jpg",
         "obj_array": [
+            {
+                "bbox": "227,588,1262,2033",
+                "center": "858,1604",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122242.jpg",
         "obj_array": [
+            {
+                "bbox": "56,221,1438,2261",
+                "center": "775,1352",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122245.jpg",
         "obj_array": [
+            {
+                "bbox": "294,510,1237,2034",
+                "center": "912,1527",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122246.jpg",
         "obj_array": [
+            {
+                "bbox": "284,541,1200,1931",
+                "center": "884,1506",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122249.jpg",
         "obj_array": [
+            {
+                "bbox": "108,485,1433,2121",
+                "center": "824,1546",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122250.jpg",
         "obj_array": [
+            {
+                "bbox": "129,464,1443,1951",
+                "center": "850,1440",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122253.jpg",
         "obj_array": [
+            {
+                "bbox": "82,314,1335,2080",
+                "center": "750,1354",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122254.jpg",
         "obj_array": [
+            {
+                "bbox": "160,98,1267,2100",
+                "center": "794,1148",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122257.jpg",
         "obj_array": [
+            {
+                "bbox": "56,299,1325,2033",
+                "center": "718,1316",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122258.jpg",
         "obj_array": [
+            {
+                "bbox": "196,263,1252,1987",
+                "center": "822,1256",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122301.jpg",
         "obj_array": [
+            {
+                "bbox": "206,242,1294,2096",
+                "center": "853,1290",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122302.jpg",
         "obj_array": [
+            {
+                "bbox": "201,252,1345,2018",
+                "center": "874,1261",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122307.jpg",
         "obj_array": [
+            {
+                "bbox": "300,769,1355,1847",
+                "center": "978,1692",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122309.jpg",
         "obj_array": [
+            {
+                "bbox": "181,717,1360,1904",
+                "center": "861,1669",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122311.jpg",
         "obj_array": [
+            {
+                "bbox": "356,763,1443,1962",
+                "center": "1078,1744",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122312.jpg",
         "obj_array": [
+            {
+                "bbox": "284,830,1329,1890",
+                "center": "948,1775",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122316.jpg",
         "obj_array": [
+            {
+                "bbox": "67,851,1619,1930",
+                "center": "876,1816",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122317.jpg",
         "obj_array": [
+            {
+                "bbox": "129,913,1314,1807",
+                "center": "786,1816",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122320.jpg",
         "obj_array": [
+            {
+                "bbox": "46,939,1521,1982",
+                "center": "806,1930",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122321.jpg",
         "obj_array": [
+            {
+                "bbox": "165,980,1438,1977",
+                "center": "884,1968",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122324.jpg",
         "obj_array": [
+            {
+                "bbox": "62,805,1588,2188",
+                "center": "856,1899",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122325.jpg",
         "obj_array": [
+            {
+                "bbox": "113,836,1562,2178",
+                "center": "894,1925",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122337.jpg",
         "obj_array": [
+            {
+                "bbox": "341,779,1174,1615",
+                "center": "928,1586",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122338.jpg",
         "obj_array": [
+            {
+                "bbox": "268,743,1082,1579",
+                "center": "809,1532",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122340.jpg",
         "obj_array": [
+            {
+                "bbox": "268,557,1195,1672",
+                "center": "866,1393",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122341.jpg",
         "obj_array": [
+            {
+                "bbox": "305,536,1024,1600",
+                "center": "817,1336",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122344.jpg",
         "obj_array": [
+            {
+                "bbox": "367,609,1215,1703",
+                "center": "974,1460",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122346.jpg",
         "obj_array": [
+            {
+                "bbox": "465,588,1060,1739",
+                "center": "995,1458",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122347.jpg",
         "obj_array": [
+            {
+                "bbox": "444,676,1004,1600",
+                "center": "946,1476",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122348.jpg",
         "obj_array": [
+            {
+                "bbox": "501,681,988,1610",
+                "center": "995,1486",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122350.jpg",
         "obj_array": [
+            {
+                "bbox": "439,784,1024,1564",
+                "center": "951,1566",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122351.jpg",
         "obj_array": [
+            {
+                "bbox": "418,738,1082,1677",
+                "center": "959,1576",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122356.jpg",
         "obj_array": [
+            {
+                "bbox": "356,975,880,1486",
+                "center": "796,1718",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122356_1.jpg",
         "obj_array": [
+            {
+                "bbox": "320,975,1030,1440",
+                "center": "835,1695",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122400.jpg",
         "obj_array": [
+            {
+                "bbox": "305,954,957,1636",
+                "center": "784,1772",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122401.jpg",
         "obj_array": [
+            {
+                "bbox": "186,918,1096,1626",
+                "center": "734,1731",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122404.jpg",
         "obj_array": [
+            {
+                "bbox": "382,789,1154,1755",
+                "center": "959,1666",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122405.jpg",
         "obj_array": [
+            {
+                "bbox": "310,825,1298,1724",
+                "center": "959,1687",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122408.jpg",
         "obj_array": [
+            {
+                "bbox": "253,820,1257,1832",
+                "center": "882,1736",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122408_1.jpg",
         "obj_array": [
+            {
+                "bbox": "310,913,1200,1739",
+                "center": "910,1782",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122419.jpg",
         "obj_array": [
+            {
+                "bbox": "237,412,1423,2070",
+                "center": "948,1447",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122419_1.jpg",
         "obj_array": [
+            {
+                "bbox": "227,407,1210,2085",
+                "center": "832,1450",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
         "filename": "20231027_122434.jpg",
         "obj_array": [
+            {
+                "bbox": "377,557,1216,2008",
+                "center": "985,1561",
+                "color": "0,255,24.7597",
+                "label": "HDPE_bottle",
+                "label_index": 1,
+                "landmark": "",
+                "landmark_len": 0
+            }
         ]
     },
     {
