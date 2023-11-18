@@ -20,6 +20,7 @@ def rename_and_copy_images(source_folder, output_folder, material_type):
     for i, file_name in enumerate(files):
         if i >= LIMIT:
             return
+
         file_extension = os.path.splitext(file_name)[1].lower()
         new_file_name = f"{material_type}_{str(i + 1).zfill(3)}{file_extension}"
         source_path = os.path.join(source_folder, file_name)
@@ -30,10 +31,14 @@ def rename_and_copy_images(source_folder, output_folder, material_type):
 
 if __name__ == "__main__":
     # Set the source folder, output folder, and material types
-    source_folder = "01-source-grouping"
-    output_folder = "02-source-merged-limit"
-    material_types = ["HDPE", "LDPE", "OTHER", "PET", "PP", "PS", "PVC",]
+    source_folder = "01-source-grouping-limit"
+    output_folder = "03-source-merged-limit"
+    material_types = ["HDPE", "LDPE", "OTHER", "PET", "PP", "PS", "PVC"]
 
+    # remove output dir
+    shutil.rmtree(output_folder)
+
+    # recreate dir again
     os.makedirs(output_folder, exist_ok=True)
 
     # Process images for each material type
