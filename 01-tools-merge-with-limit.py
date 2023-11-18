@@ -2,7 +2,9 @@ import os
 import shutil
 import random
 
-LIMIT = 50
+SOURCE_DIR = "01-source-grouping-by-cat"
+OUT_DIR = "02-merged-cat"
+LIMIT = 100
 
 def rename_and_copy_images(source_folder, output_folder, material_type):
     # Create the output folder if it doesn't exist
@@ -31,17 +33,15 @@ def rename_and_copy_images(source_folder, output_folder, material_type):
 
 if __name__ == "__main__":
     # Set the source folder, output folder, and material types
-    source_folder = "01-source-grouping-limit"
-    output_folder = "03-source-merged-limit"
-    material_types = ["HDPE", "LDPE", "OTHER", "PET", "PP", "PS", "PVC"]
-
+    material_types = [d for d in os.listdir(SOURCE_DIR) if os.path.isdir(os.path.join(SOURCE_DIR, d))]
+   
     # remove output dir
-    shutil.rmtree(output_folder)
+    shutil.rmtree(OUT_DIR)
 
     # recreate dir again
-    os.makedirs(output_folder, exist_ok=True)
+    os.makedirs(OUT_DIR, exist_ok=True)
 
     # Process images for each material type
     for material_type in material_types:
-        material_source_folder = os.path.join(source_folder, material_type)
-        rename_and_copy_images(material_source_folder, output_folder, material_type)
+        material_source_folder = os.path.join(SOURCE_DIR, material_type)
+        rename_and_copy_images(material_source_folder, OUT_DIR, material_type)

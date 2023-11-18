@@ -2,6 +2,9 @@ import os
 import shutil
 import random
 
+SOURCE_DIR = "01-source-grouping-by-cat"
+OUT_DIR = "02-merged-cat"
+
 def rename_and_move_images(source_folder, output_folder, material_type):
     # Create the output folder if it doesn't exist
     if not os.path.exists(output_folder):
@@ -29,13 +32,11 @@ def rename_and_move_images(source_folder, output_folder, material_type):
 
 if __name__ == "__main__":
     # Set the source folder, output folder, and material types
-    source_folder = "01-source-grouping"
-    output_folder = "02-source-merged"
-    material_types = ["HDPE", "LDPE", "OTHER", "PET",  "PP", "PS", "PVC",]
+    directory_names = [d for d in os.listdir(SOURCE_DIR) if os.path.isdir(os.path.join(SOURCE_DIR, d))]
 
-    os.makedirs(output_folder, exist_ok=True)
+    os.makedirs(OUT_DIR, exist_ok=True)
 
     # Process images for each material type
-    for material_type in material_types:
-        material_source_folder = os.path.join(source_folder, material_type)
-        rename_and_move_images(material_source_folder, output_folder, material_type)
+    for material_type in directory_names:
+        material_source_folder = os.path.join(SOURCE_DIR, material_type)
+        rename_and_move_images(material_source_folder, OUT_DIR, material_type)
