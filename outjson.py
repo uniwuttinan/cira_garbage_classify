@@ -1,7 +1,7 @@
 import os
 import json
 
-OUTPUT_JSON_DIR = "C:/Users/vmuser/Desktop/cira_garbage_classify/output_data"
+OUTPUT_JSON_DIR = "C:/ciracore/cira_garbage_classify/output_data"
 
 data = payload
 img_name = payload["ImageSlide"]["img_name"]
